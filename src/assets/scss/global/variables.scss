@@ -1,12 +1,12 @@
 :root {
   /* Brand Colors */
-  --color-primary: #222;
-  --color-secondary: #2f5bc2;
+  --color-primary: #2f2f2f;
+  --color-secondary: #6EBB46;
 
   /* Background Colors */
   --color-bg: #fff;
   --color-bg-secondary: #f7f7f7;
-  --color-bg-accent: rgb(174, 182, 225);
+  --color-bg-accent: rgb(175, 225, 174);
   --color-bg-hover: #f3f4f6cc;
 
   /* Text and Border Colors */
@@ -36,7 +36,7 @@
   --shadow: 0 10px 15px -3px rgb(0 0 0 / 10%), 0 4px 6px -2px rgb(0 0 0 / 5%);
 
   // Dark mode colors
-  --color-secondary-dark: rgb(22, 78, 99);
+  --color-secondary-dark: rgb(22, 99, 60);
 
   --color-link-dark: rgb(8, 145, 178);
 
