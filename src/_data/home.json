@@ -1,6 +1,6 @@
 {
-  "title": "Fernfolio",
-  "image": "src/assets/img/fern-in-hand.jpeg",
+  "title": "Jason Adle",
+  "image": "https://img.staticeagles.com/urban_photos/IMG_1457.jpg",
   "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "body": "Hey there! You've reached my website. This is an update on my previous website and I hope you'll stick around.\n\nThis website was built using the [Fernfolio](https://github.com/tylerMRoderick/fernfolio-11ty-template) template, a super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Decap CMS](https://www.netlifycms.org/)."
 }
