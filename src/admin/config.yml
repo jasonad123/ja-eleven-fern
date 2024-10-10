@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: username/repo
+  repo: jasonad123/ja-eleven-fern
   branch: main # Branch to update (optional; defaults to master)
   site_domain: https://fern.jasonadle.com
   base_url: https://fern.jasonadle.com
