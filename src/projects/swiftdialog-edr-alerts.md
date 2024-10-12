@@ -36,4 +36,4 @@ This organization uses Crowdstrike for next-gen antivirus and EDR and Crowdstrik
 
 #### Timeouts
 
-To ensure that users don'
+To ensure that users pay attention, we use a function to disable the "continue" button.
