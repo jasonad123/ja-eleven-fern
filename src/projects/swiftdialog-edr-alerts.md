@@ -5,7 +5,9 @@ date: 2024-10-10T21:17:00.000Z
 summary: Using swiftDialog with an EDR solution to notify users whilst
   remediation is happening.
 tags:
-  - post
+  - sysadmin
+  - development
+  - macOS
 ---
 ## The Opportunity
 
