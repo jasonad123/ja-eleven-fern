@@ -10,6 +10,6 @@ subtitle: Contact Subtitle
 title: Get in touch
 eleventyNavigation:
   key: Contact
-  order: 3
+  order: 4
 ---
 You can find the various ways to contact [me on my landing page.](https://landing.jasonadle.com)
