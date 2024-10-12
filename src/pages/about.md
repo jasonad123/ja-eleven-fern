@@ -2,15 +2,14 @@
 title: About Me
 subtitle: ""
 metaDescription: This page is all about me
-date: 2017-01-01T00:00:00.000Z
+date: 2024-10-14T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
 
-### What is Fernfolio?
-An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of creating a beautiful portfolio and blog. Tightly integrated with [Netlify CMS](https://www.netlifycms.org/) for flexible, Git-powered content management.
+Hi there! I'm Jason Adle. I'm a transportation planner, urbanist, technology enthusiast, sysadmin-in-training, and developer-in-progress. I'm currently working in transportation with some work in the sysadmin side and exploring my web development capabilities.
 
 ### Why create this?
 
