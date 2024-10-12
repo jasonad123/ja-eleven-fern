@@ -27,7 +27,7 @@ In our case, we'd only really need two tools to make this happen - the notificat
 
 This organization uses Crowdstrike for next-gen antivirus and EDR and Crowdstrike provides us with two essential tools for making this work: Real-Time-Response (RTR) and Fusion SOAR.
 
-The process
+### The process
 
 1. Prepare the scripts for each "threat severity level"
 2. Test the scripts for the desired outcome
