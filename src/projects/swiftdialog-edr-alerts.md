@@ -11,9 +11,9 @@ tags:
 
 Through the course of my [macOS management](projects/macos-management-things/) work, I had a thought about the what a user may experience when our endpoint protection product encounters suspicious activity (threat, makes a detection, etc). What if there was a way to provide a "bold" response when something happens, appropriately scaled to the severity of the event, and would limit user interaction whilst remediation was going on?
 
-### The examples
+### The example
 
-To the best of my knowledge, on macOS, there is a routine for Jamf Protect, the endpoint protection product
+On macOS, Jamf Protect has an integration with DEPNotify, a notification tool that plays a similar role to SwiftDialog.
 
 ### The tools
 
@@ -21,7 +21,7 @@ In our case, we'd only really need two tools to make this happen - the notificat
 
 **swiftDialog**
 
-[swiftDialog](https://github.com/swiftDialog/swiftDialog), or just Dialog, is an amazing notification tool that no Mac admin should be without
+[swiftDialog](https://github.com/swiftDialog/swiftDialog), or just Dialog, is an amazing notification tool that no Mac admin should be without.
 
 **Crowdstrike** 
 
@@ -34,6 +34,6 @@ The process
 3. Upload to Crowdstrike as RTR scripts and make them available to Fusion
 4. Use during RTR hands-on remediation (manual) and/or launch them on detection with Fusion (automatic)
 
-Timeouts
+#### Timeouts
 
 To ensure that users don'
