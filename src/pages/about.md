@@ -8,23 +8,42 @@ eleventyNavigation:
   key: About
   order: 1
 ---
+Hi there! I'm Jason Adle. I'm a transportation planner, urbanist, technology enthusiast, sysadmin-in-training, and developer-in-progress. 
 
-Hi there! I'm Jason Adle. I'm a transportation planner, urbanist, technology enthusiast, sysadmin-in-training, and developer-in-progress. I'm currently working in transportation with some work in the sysadmin side and exploring my web development capabilities.
+My background is primarily in geography and urban planning, through which I've gained exposure to coding and development both for direct projects and indirect/ancillary work. I also enjoy working on things and learning more in my free time.
 
-### Why create this?
+## FAQs
 
-**Reason #1:** I wanted a portfolio that was simple, fast, accessible, and integrated with a git-powered cms. Existing templates didn't perfectly fit my needs, so I decided to build my own template.
+### **Where do you live?**
 
-**Reason #2:** I wanted to learn more about [Eleventy](https://www.11ty.dev/) and static site generators in general. Building Fernfolio was a good excuse to dive deeper on that topic.
+**📍[Washington, DC](https://www.openstreetmap.org/relation/5396194)**
 
-### How do I edit content?
-Once your site is deployed and configured, add `/admin` to the end of the url (not using localhost) and hit refresh. From there, you should be able to login and see see the content management dashboard. You should be able to change most content here (e.g. page text, images, logo, articles, projects, etc.).
+### **What's your experience?**
 
-### Further customizations
-If you want to take your customizations further, you will need to modify the project source code. Some customizations, like changing theme colors and fonts, are straightforward (those can be modified in the `variables.scss` file). Other customizations will require more in-depth solutions.
+Excellent question. A very brief variant of my resume is available on the [Work](/work) section of this site. Some projects I've worked on throughout my career (and some personal projects) are linked in the [Projects](/projects) section.
 
-If you get stuck or just have a question, feel free to create a [Github issue](https://github.com/TylerMRoderick/fernfolio-11ty-template/issues) and I will try to point you in the right direction.
+If you'd like a copy of my detailed resume or my CV, please contact me directly.
 
-Thanks for checking out Fernfolio 👋 - [Tyler M. Roderick](https://www.tylerroderick.com/)
+### How do I contact you?
 
-![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
+Take your pick of contact method on my landing page. I'll also replicate some of the links on the [Contact](/contact) page.
+
+### What's your academic background?
+
+I hold a Bachelor of Arts with a Major in Human Geography and a Minor in Urban Studies from the University of British Columbia in Vancouver.
+
+### What languages do you know?
+
+**Code:** HTML, CSS, JS, shell, some AppleScript
+
+**Spoken/written:** English, Spanish, some French, some German, some Filipino
+
+**Slang:** Younger Millennial/older Gen Z slang, with some knowledge of younger Gen Z/Gen Alpha slang (aka the [skibidi toilet ohio rizzler](https://www.dispatch.com/story/news/local/2024/08/17/skibidi-toilet-ohio-rizz-gen-alpha-slang-terms-meaning/74702923007/) ***shudders***)
+
+### What is your favourite...
+
+* **Code editor:** currently [VS Code](https://code.visualstudio.com)
+* **Hosting:** [Cloudflare](https://pages.cloudflare.com) (this website is built on it!)
+* **Train or metro system:** Tie between Vienna and Vancouver
+
+[](https://www.tylerroderick.com/)
