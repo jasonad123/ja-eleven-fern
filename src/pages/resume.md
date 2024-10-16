@@ -1,13 +1,13 @@
 ---
-layout: blog.njk
-title: Resume
+layout: work.njk
+title: Work
 date: 2021-01-01
 permalink: /work/index.html
 metaDescription: 
 subtitle: A resume-like page
 emoji: 💻
 eleventyNavigation:
-  key: Resume
+  key: Work
   order: 2
 ---
 Resume

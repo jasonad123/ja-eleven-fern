@@ -174,14 +174,12 @@ collections:
               - { label: "Key", name: "key", widget: "string" }
               - { label: "Order", name: "order", widget: "number", default: 0 }
 
-
-        #resume page
-        - label: "Resume Page"
-        name: "work"
-        file: "src/pages/resume.md"
+      # Contact Page
+      - label: "Contact Page"
+        name: "contact"
+        file: "src/pages/contact.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: Subtitle, name: subtitle, widget: string, required: false }
           - { label: "Body", name: "body", widget: "markdown", required: false }
           - {
               label: "Meta Description",
@@ -198,10 +196,9 @@ collections:
               - { label: "Key", name: "key", widget: "string" }
               - { label: "Order", name: "order", widget: "number", default: 0 }
 
-      # Contact Page
-      - label: "Contact Page"
-        name: "contact"
-        file: "src/pages/contact.md"
+      - label: "Work Page"
+        name: "work"
+        file: "src/pages/work.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown", required: false }
