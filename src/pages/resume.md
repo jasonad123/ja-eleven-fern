@@ -10,3 +10,6 @@ eleventyNavigation:
   key: Resume
   order: 2
 ---
+Resume
+
+### Why create this?
