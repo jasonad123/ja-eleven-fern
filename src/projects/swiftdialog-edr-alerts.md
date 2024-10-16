@@ -42,9 +42,7 @@ Fusion SOAR is the built in automation tool within Crowdstrike and can run RTR s
 
 ## Screenshots
 
-![Screenshot showing an alert relating to a detection by an antivirus. The alert is at a "high" level and blocks out the screen.](https://raw.githubusercontent.com/jasonad123/dialog-edr-popup-inator/refs/heads/main/screenshots/high.png)
 
-![Screenshot showing an "all clear" type of alert in response to remediation of a threat by an antivirus product.](https://raw.githubusercontent.com/jasonad123/dialog-edr-popup-inator/refs/heads/main/screenshots/allclear.png)
 
 ## More about the code
 
