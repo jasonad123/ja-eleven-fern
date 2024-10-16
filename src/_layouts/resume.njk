@@ -1,0 +1,16 @@
+---
+layout: base.njk
+section: resume
+permalink: /work/index.html
+---
+<div class="page-container">
+  <h1>{{title}}</h1>
+  {{ layoutContent | safe }}
+	<hr/>
+
+  {{ resumelist(
+    resume = pagination.items | reverse,
+    show_tags = true
+  ) }}
+
+</div>
