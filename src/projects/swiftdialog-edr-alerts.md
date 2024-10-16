@@ -42,8 +42,6 @@ Fusion SOAR is the built in automation tool within Crowdstrike and can run RTR s
 
 ## Screenshots
 
-
-
 ## More about the code
 
 #### Timeouts

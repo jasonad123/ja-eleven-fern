@@ -20,3 +20,4 @@ async function imageShortcode (src, alt, sizes, classes, loading = 'lazy') {
 }
 
 module.exports = imageShortcode;
+
